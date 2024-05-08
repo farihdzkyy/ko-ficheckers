@@ -1,0 +1,6 @@
+{
+    "BOT_TOKEN": "7196190018:AAHhz4fEtpfL2ym4R6c1df3ZTj7hMH4J8J4",
+    "CHAT_ID": "6627730366",
+    "server_port": 3000,
+    "mongo_url": "mongodb+srv://nekozuX:farih2009@nekozu.wlvpzbo.mongodb.net/?retryWrites=true&w=majority&appName=nekozu"
+}
